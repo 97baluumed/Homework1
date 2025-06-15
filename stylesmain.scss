@@ -26,7 +26,6 @@ body {
 }
 .content {
     padding-top: 196px;
-    width: 768px;
 }
 .content__title {
     color: rgb(32, 32, 39);
@@ -152,3 +151,5 @@ body {
     letter-spacing: 0px;
     text-align: left;
 }
+
+@import 'mobile'
